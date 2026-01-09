@@ -1,4 +1,4 @@
-  Listas de Exercícios de Química
+#  Listas de Exercícios de Química
 -----
 _Elaborado pelo Prof. Elias Sabát — © Prof. Elias Sabát. Direitos autorais reservados._
  
@@ -11,9 +11,9 @@ O presente cronograma dispõe a organização das listas de exercícios associad
  ## Primeiro Semestre
  
  
- | Lista   | Assuntos                                                                                                                                                                | Mês     |
+ | Lista   | Assuntos                                                                                                                                                                | Download    |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| LISTA 1 | Substância Pura, Misturas Homogêneas e Heterogêneas, Separação de Misturas, Substâncias Simples e Compostas e Mudanças de Estado Físico                                  | Fev     |
+| LISTA 1 | Substância Pura, Misturas Homogêneas e Heterogêneas, Separação de Misturas, Substâncias Simples e Compostas e Mudanças de Estado Físico                                  | [download](https://github.com/sabb4th/Apostilas_do_Mepi/blob/master/Apostila%201%20MEPI%20-%20Introdu%C3%A7%C3%A3o%20a%20Qu%C3%ADmica/Apostila%201%20MEPI.pdf)     |
 | LISTA 2 | Modelos Atômicos, Identificação dos Átomos, Tabela Periódica e Distribuição Eletrônica                                                                                  | Fev/Mar |
 | LISTA 3 | Ligações Iônicas, Covalentes e Metálicas, Estrutura de Lewis, Geometria Molecular, Polaridade e Forças Intermoleculares                                                  | Mar     |
 | LISTA 4 | Ácidos, Bases, Sais e Óxidos                                                                                                                                             | Abr     |
@@ -36,3 +36,4 @@ O presente cronograma dispõe a organização das listas de exercícios associad
 | LISTA 15| Cinética Química                                                                                                                                                | Out |
 | LISTA 16| Equilíbrio Químico                                                                                                                                              | Out |
 | LISTA 17| Eletroquímica                                                                                                                                                   | Nov |
+
