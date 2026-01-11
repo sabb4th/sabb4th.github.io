@@ -1,3 +1,5 @@
+# Apostilas 
+
 _Elaborado pelo Prof. Elias Sabát — © Prof. Elias Sabát. Direitos autorais reservados._
  
  As listas de exercícios disponibilizadas nesta página integram-se às ações pedagógicas desenvolvidas no âmbito do Projeto MEPIJU, tendo por escopo o fortalecimento do processo de ensino e aprendizagem. Referidos materiais foram elaborados com rigor didático e fundamentação pedagógica, contemplando conteúdos devidamente sistematizados e organizados de forma progressiva, com vistas a promover a compreensão, a aplicação prática e a consolidação dos conhecimentos trabalhados em sala de aula.
