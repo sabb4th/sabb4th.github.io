@@ -24,7 +24,7 @@ O presente cronograma dispõe a organização das listas de exercícios associad
 | Lista | Assuntos | Downloads |
 |:-----:|:--------:|:---------:|
 | LISTA 9  | Postulados de Kekulé, Hibridização do Carbono, Classificação do Carbono e das Cadeias Carbônicas e Hidrocarbonetos | [Download](https://github.com/sabb4th/apostilas_quimica/blob/master/apostila-9-introdu%C3%A7%C3%A3o-org%C3%A2nica/apostila-9.pdf)|
-| LISTA 10 | Identificação e Propriedades das funções oxigenadas e nitrogenadas | Ago |
+| LISTA 10 | Identificação e Propriedades das funções oxigenadas e nitrogenadas | [Download](https://github.com/sabb4th/apostilas_quimica/blob/master/apostila-10-fun%C3%A7%C3%B5es-org%C3%A2nicas/apostila-10.pdf) |
 | LISTA 11 | Nomenclatura dos Compostos Orgânicos | Ago |
 | LISTA 12 | Isomeria Plana, Geométrica e Óptica | Set |
 | LISTA 13 | Reações Orgânicas ENEM | Set |
