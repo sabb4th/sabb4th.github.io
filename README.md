@@ -10,7 +10,7 @@ O presente cronograma dispõe a organização das listas de exercícios associad
 
 | Lista | Assuntos ||
 |:-----:|:--------:|:---------:|
-| LISTA 1 | Substância Pura, Misturas Homogêneas e Heterogêneas, Separação de Misturas, Substâncias Simples e Compostas e Mudanças de Estado Físico | [Download]( https://github.com/sabb4th/apostilas_quimica/blob/master/apostila-1-introdu%C3%A7%C3%A3o-a-quimica/apostila-1.pdf)|
+| LISTA 1 | Substância Pura, Misturas Homogêneas e Heterogêneas, Separação de Misturas, Substâncias Simples e Compostas e Mudanças de Estado Físico | [Download](https://codeberg.org/sabb4th/apostilas_quimica/src/branch/master/apostila-1-introdu%C3%A7%C3%A3o-a-quimica/apostila-1.pdf)|
 | LISTA 2 | Modelos Atômicos, Identificação dos Átomos, Tabela Periódica e Distribuição Eletrônica | [Download](https://github.com/sabb4th/apostilas_quimica/blob/master/apostila-2-bases-da-qu%C3%ADmica-geral/apostila-2.pdf) |
 | LISTA 3 | Ligações Iônicas, Covalentes e Metálicas, Estrutura de Lewis, Geometria Molecular, Polaridade e Forças Intermoleculares | [Download](https://github.com/sabb4th/apostilas_quimica/blob/master/apostila-3-liga%C3%A7%C3%B5es-qu%C3%ADmicas/apostila-3.pdf) |
 | LISTA 4 | Ácidos, Bases, Sais e Óxidos | [Download](https://github.com/sabb4th/apostilas_quimica/blob/master/apostila-4-fun%C3%A7%C3%B5es%20inorg%C3%A2nicas/apostila-4.pdf) |
