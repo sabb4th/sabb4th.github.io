@@ -8,7 +8,7 @@ O presente cronograma dispõe a organização das listas de exercícios associad
 
 ## Primeiro Semestre
 
-| Lista | Assuntos | Downloads |
+| Lista | Assuntos |  |
 |:-----:|:--------:|:---------:|
 | LISTA 1 | Substância Pura, Misturas Homogêneas e Heterogêneas, Separação de Misturas, Substâncias Simples e Compostas e Mudanças de Estado Físico | [Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-1-introdu%C3%A7%C3%A3o-a-quimica/apostila-1.pdf)|
 | LISTA 2 | Modelos Atômicos, Identificação dos Átomos, Tabela Periódica e Distribuição Eletrônica | [Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-2-bases-da-qu%C3%ADmica-geral/apostila-2.pdf)|
@@ -21,7 +21,7 @@ O presente cronograma dispõe a organização das listas de exercícios associad
 
 ## Segundo Semestre
 
-| Lista | Assuntos | Downloads |
+| Lista | Assuntos ||
 |:-----:|:--------:|:---------:|
 | LISTA 9  | Postulados de Kekulé, Hibridização do Carbono, Classificação do Carbono e das Cadeias Carbônicas e Hidrocarbonetos | Ago|
 | LISTA 10 | Identificação e Propriedades das funções oxigenadas e nitrogenadas | Ago|
