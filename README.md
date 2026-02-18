@@ -21,7 +21,7 @@ O presente cronograma dispõe a organização das listas de exercícios associad
 
 ## Segundo Semestre
 
-| Lista | Assuntos ||
+| Lista | Assuntos |          |
 |:-----:|:--------:|:---------:|
 | LISTA 9  | Postulados de Kekulé, Hibridização do Carbono, Classificação do Carbono e das Cadeias Carbônicas e Hidrocarbonetos | [Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-9-introdu%C3%A7%C3%A3o-org%C3%A2nica/apostila-9.pdf)|
 | LISTA 10 | Identificação e Propriedades das funções oxigenadas e nitrogenadas | [Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-10-fun%C3%A7%C3%B5es-org%C3%A2nicas/apostila-10.pdf)|
@@ -32,3 +32,16 @@ O presente cronograma dispõe a organização das listas de exercícios associad
 | LISTA 15 | Cinética Química | Out |
 | LISTA 16 | Equilíbrio Químico | Out |
 | LISTA 17 | Eletroquímica | Nov |
+
+
+## Revisão ENEM
+
+| Ano |     Prova |           |
+|:-----:|:--------:|:---------:|
+| 2025  | EXAME NACIONAL DO ENSINO MÉDIO- 2 dia |[Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/provas-enem/2025.pdf)|
+| 2024  | EXAME NACIONAL DO ENSINO MÉDIO- 2 dia |[Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/provas-enem/2024.pdf)|
+| 2023  | EXAME NACIONAL DO ENSINO MÉDIO- 2 dia |[Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/provas-enem/2023.pdf)|
+| 2022  | EXAME NACIONAL DO ENSINO MÉDIO- 2 dia |[Download](https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/provas-enem/2022.pdf)|
+
+
+
