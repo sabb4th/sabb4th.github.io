@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description | escape }}">
-    <meta name="theme-color" content="#163d38">
+    <meta name="theme-color" content="#102d54">
     <title>{{ site.title | escape }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
@@ -13,11 +13,48 @@
     <header class="site-header">
       <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark" aria-hidden="true">Q</span><span>Prof. Elias Sabát<small>Aulas particulares de Química</small></span></a>
       <nav aria-label="Navegação principal">
+        <a href="#quem-sou-eu">Quem sou eu</a>
         <a href="#apostilas">Apostilas</a>
         <a href="#como-estudar">Como estudar</a>
       </nav>
     </header>
-    <main id="conteudo" tabindex="-1">{{ content }}</main>
+    <main id="conteudo" tabindex="-1">
+      <div class="chemistry-art" aria-hidden="true">
+        <svg viewBox="0 0 360 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="liquid" x1="90" y1="250" x2="270" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#66d9ef"/><stop offset="1" stop-color="#3974db"/></linearGradient>
+            <radialGradient id="halo"><stop stop-color="#dcecff"/><stop offset="1" stop-color="#f3f7fd" stop-opacity="0"/></radialGradient>
+          </defs>
+          <circle cx="180" cy="200" r="175" fill="url(#halo)"/>
+          <g class="atom-orbits" stroke="#487fb8" stroke-width="1.8">
+            <ellipse cx="180" cy="110" rx="88" ry="30"/>
+            <ellipse cx="180" cy="110" rx="88" ry="30" transform="rotate(60 180 110)"/>
+            <ellipse cx="180" cy="110" rx="88" ry="30" transform="rotate(120 180 110)"/>
+            <circle cx="180" cy="110" r="10" fill="#102d54" stroke="none"/>
+            <circle cx="268" cy="110" r="5" fill="#31a8c3" stroke="none"/>
+            <circle cx="136" cy="34" r="5" fill="#3974db" stroke="none"/>
+          </g>
+          <g class="flask">
+            <path d="M107 218V270L64 351Q54 373 80 375H175Q201 373 191 351L148 270V218" fill="white" fill-opacity=".7" stroke="#244e7d" stroke-width="3" stroke-linejoin="round"/>
+            <path d="M91 315Q110 303 130 315T164 315L184 354Q191 366 173 367H82Q67 366 73 354Z" fill="url(#liquid)" opacity=".85"/>
+            <path d="M103 218H152M108 237H147M92 346H106M100 329H110" stroke="#244e7d" stroke-width="3" stroke-linecap="round"/>
+            <circle class="bubble bubble-one" cx="124" cy="340" r="5" stroke="white" stroke-width="2"/>
+            <circle class="bubble bubble-two" cx="145" cy="353" r="3" fill="white"/>
+          </g>
+          <g class="beaker">
+            <path d="M224 261H301L291 275V359Q291 374 276 374H239Q224 374 224 359Z" fill="white" fill-opacity=".65" stroke="#244e7d" stroke-width="3" stroke-linejoin="round"/>
+            <path d="M232 317Q246 309 259 317T283 317V358Q283 366 275 366H240Q232 366 232 358Z" fill="url(#liquid)" opacity=".65"/>
+            <path d="M226 286H240M226 301H236M226 331H240M226 347H236" stroke="#244e7d" stroke-width="2"/>
+          </g>
+          <g stroke="#8baed3" stroke-width="1.5"><path d="M275 194L293 184L311 194V215L293 225L275 215ZM293 184V163M311 215L329 225M275 215L257 225"/><path d="M58 164V180M50 172H66"/></g>
+          <circle cx="69" cy="238" r="4" fill="#5fbcd3"/>
+          <circle cx="313" cy="112" r="3" fill="#739bd0"/>
+          <path d="M56 387H311" stroke="#b6cce4" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <span>Uma nova perspectiva sobre a matéria.</span>
+      </div>
+      {{ content }}
+    </main>
     <footer class="site-footer">Química • Prof. Elias Sabát</footer>
   </body>
 </html>

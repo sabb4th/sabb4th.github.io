@@ -10,6 +10,14 @@ Este é o espaço de apoio às nossas aulas. Aqui você encontra as apostilas e 
 
 Nas aulas, trabalhamos os conceitos e sua aplicação na resolução de problemas. As listas complementam esse percurso: use-as para registrar suas dúvidas, exercitar o raciocínio e acompanhar seu aprendizado.
 
+## Quem sou eu
+
+Sou **Elias Sabát, professor de Química e bolsista do CNPq**. Este espaço reúne os materiais que elaboro para apoiar minhas aulas particulares e tornar o estudo da Química mais acessível e organizado.
+
+Minha proposta nas aulas é conectar os conceitos à prática, discutir a resolução de exercícios e trabalhar as dúvidas de cada aluno. Acredito no aprendizado construído passo a passo, com espaço para perguntar, tentar e compreender.
+
+As apostilas são uma extensão desse trabalho: um apoio para você desenvolver autonomia nos estudos e chegar às aulas com novas perguntas.
+
 ## Apostilas
 
 Os materiais estão organizados por área da Química e mantêm a numeração das listas usada em aula. Acesse os PDFs disponíveis abaixo; os demais materiais serão adicionados a esta página conforme forem disponibilizados.

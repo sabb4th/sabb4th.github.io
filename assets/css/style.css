@@ -1,37 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap');
 
-:root { color-scheme: light; --ink: #203b36; --muted: #536862; --green: #163d38; --line: #dce5df; --paper: #fbfcf9; }
+:root { color-scheme: light; --ink: #213852; --muted: #50647d; --navy: #102d54; --line: #dce5f1; --paper: #f8faff; }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 24px; }
 body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.75 'DM Sans', sans-serif; }
-a { color: #186451; text-underline-offset: 4px; }
-a:hover { color: #0c3d31; }
-a:focus-visible { outline: 3px solid #b17022; outline-offset: 5px; }
+a { color: #245d9d; text-underline-offset: 4px; }
+a:hover { color: #102d54; }
+a:focus-visible { outline: 3px solid #277cb4; outline-offset: 5px; }
 .site-header, main, .site-footer { width: min(1080px, calc(100% - 48px)); margin-inline: auto; }
 .site-header { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding-block: 28px; border-bottom: 1px solid var(--line); }
-.brand { display: flex; align-items: center; gap: 12px; color: var(--green); text-decoration: none; font-weight: 700; }
-.brand-mark { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: var(--green); color: white; font: 700 27px 'Manrope', sans-serif; }
+.brand { display: flex; align-items: center; gap: 12px; color: var(--navy); text-decoration: none; font-weight: 700; }
+.brand-mark { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: var(--navy); color: white; font: 700 27px 'Manrope', sans-serif; }
 .brand small { display: block; color: var(--muted); font-size: 12px; font-weight: 400; }
 nav { display: flex; gap: 28px; font-size: 14px; font-weight: 600; }
 nav a { text-decoration: none; }
 main { padding-block: 70px 32px; }
-h1, h2, h3 { font-family: 'Manrope', sans-serif; line-height: 1.2; letter-spacing: -.035em; color: var(--green); }
+h1, h2, h3 { font-family: 'Manrope', sans-serif; line-height: 1.2; letter-spacing: -.035em; color: var(--navy); }
 h1 { max-width: 820px; font-size: clamp(36px, 5.8vw, 64px); font-weight: 800; margin: 0 0 24px; }
 p { max-width: 860px; color: var(--muted); }
 h1 + p { max-width: 760px; font-size: 21px; line-height: 1.6; }
 h1 + p + p { max-width: 740px; }
 h1 + p + p + p { margin-block: 28px 64px; }
-h1 + p + p + p a { display: inline-block; padding: 10px 18px; margin: 5px 4px; background: var(--green); color: white; border-radius: 7px; text-decoration: none; font-size: 14px; font-weight: 600; }
+h1 + p + p + p a { display: inline-block; padding: 10px 18px; margin: 5px 4px; background: var(--navy); color: white; border-radius: 7px; text-decoration: none; font-size: 14px; font-weight: 600; }
 h2 { margin-top: 60px; padding-top: 28px; border-top: 1px solid var(--line); font-size: 30px; }
 h3 { margin-top: 40px; font-size: 23px; }
 table { width: 100%; border-collapse: separate; border-spacing: 0; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: white; font-size: 14px; }
-th { background: #eaf0e9; color: var(--green); font-size: 12px; text-transform: uppercase; letter-spacing: .07em; }
+th { background: #eaf0fa; color: var(--navy); font-size: 12px; text-transform: uppercase; letter-spacing: .07em; }
 th, td { padding: 18px 20px; text-align: left; vertical-align: top; }
 td { border-top: 1px solid var(--line); }
 td:first-child { width: 110px; white-space: nowrap; }
 td:last-child { width: 155px; color: var(--muted); }
 td a { font-weight: 700; white-space: nowrap; }
-tbody tr:hover { background: #f5f8f3; }
+tbody tr:hover { background: #f0f6ff; }
 ol { padding-left: 24px; color: var(--muted); }
 li { padding-left: 8px; margin-block: 12px; }
 strong { color: var(--ink); }
@@ -54,3 +54,39 @@ hr + p { font-size: 13px; }
   td:last-child { width: 94px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Chemistry illustrations and a quiet blue atmosphere. */
+body { background: radial-gradient(ellipse at 95% 5%, #e2edff 0, transparent 40%), var(--paper); }
+.site-header { position: relative; }
+.brand-mark { box-shadow: 0 5px 15px #102d5420; }
+nav a { position: relative; }
+nav a::after { content: ''; position: absolute; left: 0; bottom: -5px; width: 100%; height: 2px; background: #398ac4; transform: scaleX(0); transform-origin: left; transition: transform .2s ease; }
+nav a:hover::after, nav a:focus-visible::after { transform: scaleX(1); }
+.chemistry-art { float: right; width: 32%; margin: -20px 0 24px 28px; text-align: center; }
+.chemistry-art svg { width: 100%; height: auto; overflow: visible; }
+.chemistry-art span { display: block; color: #526c8d; font-size: 11px; letter-spacing: .04em; }
+h1 { font-size: clamp(36px, 4.6vw, 56px); }
+h2 { clear: both; }
+h2::before { content: ''; display: block; width: 36px; height: 3px; background: linear-gradient(90deg, #163e73, #5dbed8); margin-bottom: 18px; border-radius: 4px; }
+h1 + p + p + p a { box-shadow: 0 5px 15px #102d5418; transition: transform .2s ease, box-shadow .2s ease, background .2s ease; }
+h1 + p + p + p a:hover { transform: translateY(-3px); box-shadow: 0 9px 20px #102d5428; background: #204f88; }
+table { box-shadow: 0 6px 24px #102d5406; }
+tbody tr { transition: background .2s ease; }
+#quem-sou-eu + p { padding: 24px 28px; border-left: 3px solid #3974db; background: linear-gradient(120deg, #eaf1fc, #f0f7fc); border-radius: 0 12px 12px 0; font-size: 18px; }
+.atom-orbits { transform-origin: 180px 110px; animation: orbit 36s linear infinite; }
+.flask { animation: float 6s ease-in-out infinite; }
+.beaker { animation: float 6s ease-in-out -3s infinite; }
+.bubble { animation: bubble 4s ease-in-out infinite; }
+.bubble-two { animation-delay: -2s; }
+@keyframes orbit { to { transform: rotate(360deg); } }
+@keyframes float { 50% { transform: translateY(-7px); } }
+@keyframes bubble { 0%, 100% { opacity: .3; transform: translateY(0); } 50% { opacity: 1; transform: translateY(-12px); } }
+@media (max-width: 760px) {
+  .chemistry-art { float: none; width: min(240px, 70%); margin: 0 auto 32px; }
+  .chemistry-art span { display: none; }
+  h1 { max-width: 100%; }
+  nav { flex-wrap: wrap; gap: 16px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
