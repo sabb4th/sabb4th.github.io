@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <meta name="theme-color" content="#163d38">
+    <title>{{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark" aria-hidden="true">Q</span><span>Prof. Elias Sabát<small>Aulas particulares de Química</small></span></a>
+      <nav aria-label="Navegação principal">
+        <a href="#apostilas">Apostilas</a>
+        <a href="#como-estudar">Como estudar</a>
+      </nav>
+    </header>
+    <main id="conteudo" tabindex="-1">{{ content }}</main>
+    <footer class="site-footer">Química • Prof. Elias Sabát</footer>
+  </body>
+</html>
