@@ -1,0 +1,139 @@
+[
+  {
+    "number": "01",
+    "title": "Introdução à Química",
+    "topics": "Substância Pura, Misturas Homogêneas e Heterogêneas, Separação de Misturas, Substâncias Simples e Compostas e Mudanças de Estado Físico",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-1-introdu%C3%A7%C3%A3o-a-quimica/apostila-1.pdf"
+  },
+  {
+    "number": "02",
+    "title": "Estrutura atômica e tabela periódica",
+    "topics": "Modelos Atômicos, Identificação dos Átomos, Tabela Periódica e Distribuição Eletrônica",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-2-bases-da-qu%C3%ADmica-geral/apostila-2.pdf"
+  },
+  {
+    "number": "03",
+    "title": "Ligações químicas",
+    "topics": "Ligações Iônicas, Covalentes e Metálicas, Estrutura de Lewis, Geometria Molecular, Polaridade e Forças Intermoleculares",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-3-liga%C3%A7%C3%B5es-qu%C3%ADmicas/apostila-3.pdf"
+  },
+  {
+    "number": "04",
+    "title": "Funções inorgânicas",
+    "topics": "Ácidos, Bases, Sais e Óxidos",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-4-fun%C3%A7%C3%B5es-inorg%C3%A2nicas/apostila-4.pdf"
+  },
+  {
+    "number": "05",
+    "title": "Reações químicas",
+    "topics": "Reações Químicas",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-5-rea%C3%A7%C3%B5es-qu%C3%ADmicas/apostila-5.pdf"
+  },
+  {
+    "number": "06",
+    "title": "Massa atômica e molecular",
+    "topics": "Massa Atômica e Massa Molecular",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-6-mol/apostila-6.pdf"
+  },
+  {
+    "number": "07",
+    "title": "Cálculo estequiométrico",
+    "topics": "Cálculo Estequiométrico",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-7-estequiometria/apostila-7.pdf",
+    "keywords": "estequiometria"
+  },
+  {
+    "number": "08",
+    "title": "Estudo dos gases",
+    "topics": "Estudo dos Gases",
+    "area": "geral",
+    "area_label": "Química geral",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-8-gases/apostila-8.pdf"
+  },
+  {
+    "number": "09",
+    "title": "Introdução à Química orgânica",
+    "topics": "Postulados de Kekulé, Hibridização do Carbono, Classificação do Carbono e das Cadeias Carbônicas e Hidrocarbonetos",
+    "area": "organica",
+    "area_label": "Química orgânica",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-9-introdu%C3%A7%C3%A3o-org%C3%A2nica/apostila-9.pdf"
+  },
+  {
+    "number": "10",
+    "title": "Funções orgânicas",
+    "topics": "Identificação e Propriedades das funções oxigenadas e nitrogenadas",
+    "area": "organica",
+    "area_label": "Química orgânica",
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-10-fun%C3%A7%C3%B5es-org%C3%A2nicas/apostila-10.pdf"
+  },
+  {
+    "number": "11",
+    "title": "Nomenclatura orgânica",
+    "topics": "Nomenclatura dos Compostos Orgânicos",
+    "area": "organica",
+    "area_label": "Química orgânica",
+    "url": null
+  },
+  {
+    "number": "12",
+    "title": "Isomeria",
+    "topics": "Isomeria Plana, Geométrica e Óptica",
+    "area": "organica",
+    "area_label": "Química orgânica",
+    "url": null
+  },
+  {
+    "number": "13",
+    "title": "Reações orgânicas",
+    "topics": "Reações orgânicas",
+    "area": "organica",
+    "area_label": "Química orgânica",
+    "url": null
+  },
+  {
+    "number": "14",
+    "title": "Termoquímica",
+    "topics": "Termoquímica",
+    "area": "fisico-quimica",
+    "area_label": "Físico-química",
+    "url": null
+  },
+  {
+    "number": "15",
+    "title": "Cinética química",
+    "topics": "Cinética Química",
+    "area": "fisico-quimica",
+    "area_label": "Físico-química",
+    "url": null
+  },
+  {
+    "number": "16",
+    "title": "Equilíbrio químico",
+    "topics": "Equilíbrio Químico",
+    "area": "fisico-quimica",
+    "area_label": "Físico-química",
+    "url": null
+  },
+  {
+    "number": "17",
+    "title": "Eletroquímica",
+    "topics": "Eletroquímica",
+    "area": "fisico-quimica",
+    "area_label": "Físico-química",
+    "url": null
+  }
+]
