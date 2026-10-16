@@ -110,7 +110,7 @@
     "topics": "Termoquímica",
     "area": "fisico-quimica",
     "area_label": "Físico-química",
-    "url": null
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-14-termoquimica/apostila-14.pdf"
   },
   {
     "number": "15",
@@ -118,7 +118,7 @@
     "topics": "Cinética Química",
     "area": "fisico-quimica",
     "area_label": "Físico-química",
-    "url": null
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-15-cinetica-quimica/apostila-15.pdf"
   },
   {
     "number": "16",
@@ -126,7 +126,7 @@
     "topics": "Equilíbrio Químico",
     "area": "fisico-quimica",
     "area_label": "Físico-química",
-    "url": null
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-16-equilibrio-quimico/apostila-16.pdf"
   },
   {
     "number": "17",
@@ -134,6 +134,6 @@
     "topics": "Eletroquímica",
     "area": "fisico-quimica",
     "area_label": "Físico-química",
-    "url": null
+    "url": "https://codeberg.org/sabb4th/apostilas_quimica/raw/branch/master/apostila-17-eletroquimica/apostila-17.pdf"
   }
 ]
